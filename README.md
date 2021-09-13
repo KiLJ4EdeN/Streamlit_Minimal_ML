@@ -1,5 +1,6 @@
 # Streamlit_Minimal_ML
 minimal image classification ui
+python version -> 3.6
 
 ## Usage
 
