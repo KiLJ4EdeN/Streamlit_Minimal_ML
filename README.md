@@ -24,3 +24,11 @@ chmod +x run.sh
 
 #### Refer to http://localhost:8501
 
+
+#### Results:
+
+Upload An Image:
+<img src="https://github.com/KiLJ4EdeN/Streamlit_Minimal_ML/blob/main/Images/service.PNG" width="50%" height="50%" />
+
+Get the Results:
+<img src="https://github.com/KiLJ4EdeN/Streamlit_Minimal_ML/blob/main/Images/results.PNG" width="50%" height="50%" />
