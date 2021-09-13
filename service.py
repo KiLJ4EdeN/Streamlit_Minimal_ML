@@ -6,7 +6,7 @@ import numpy as np
 from preprocessing import preprocess_image
 
 
-model = tf.keras.models.load_model('mnist.h5')
+model = tf.keras.models.load_model('models/mnist.h5')
 
 # UI
 st.write("MNIST digit prediction")
